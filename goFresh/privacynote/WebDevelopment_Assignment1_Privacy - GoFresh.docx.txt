@@ -1,0 +1,72 @@
+﻿Value Sensitive Design Assignment #1
+Due Date: submit w/ Final Project
+Write the privacy policy for the website you are designing. Your aim is to be sensitive to all the values that are at play, and make appropriate tradeoffs between them. There are two parts to this assignment:
+* Write the privacy policy itself (length is somewhat flexible, but it must be readable by an average person in 5 minutes or less).
+
+
+* Complete a worksheet (see attached) explaining why you wrote your privacy policy as you did.
+Be realistic about what data you’re going to collect, and what you’re going to do with it. At a minimum, you’re presumably going to want some data to improve your website via analytics, so don’t just go with a utopian ‘we won’t collect any of your data’ approach. Your interests matter too (e.g. producing a good website that will make money), and collecting data can be an important part of this. What we’re looking for is a reasonable and intelligible privacy policy that, through being sensitive to all the values that are at stake, strikes an appropriate balance between collecting useful data, and respecting user privacy.
+
+
+We understand that you care how information about you is used and shared, and we appreciate your trust that we will do so with care and sensibility. This Privacy Policy describes how GoFresh collect and process your personal information through our website that reference this Privacy Policy. By using GoFresh Services, we understand that you consent to our Privacy Policy. 
+We collect your personal information to provide and continually improve our website service. 
+Types of personal information data we collect:
+* Your login information such like your email address, and password;
+* Identifying information such like your name, address, and phone numbers for delivery purposes;
+* Payment information in order to be able to make purchase on GoFresh;
+* Content of reviews of our products and website for our website;
+* Your order history information such like the products you ordered, quantity and frequency in order to provide personalized advertisement and to create a smart online shopping environment for you;
+* If you are a seller, your selling history and communication such like posting and review replies in order to troubleshoot and improve our website service. 
+Information about our customers is a crucial part of our business, and we will not in the business of selling our customers’ personal information to others. We share customers’ personal information only when the flow of information is legal and appropriate. Examples include fulfilling orders for our delivering packages. Those related service provider has access to your personal information needed to only perform their necessary functions.
+________________
+Privacy Policy Justification Worksheet
+1. Briefly describe the website you are building (its purpose/functionality/etc.)
+GoFresh is an online grocery shopping website, which aims to provide consumers fresh fruits and vegetables online purchase and delivery service and focus on freshness and convenience. Our website supports both seller and consumer for both posting products and purchasing products. It also includes the review functionality for our consumers to understand more about the products provided on the website and their better decision-making. After making an order, the products will be delivered to the consumer’s address and the transaction will be completed. 
+
+
+
+
+
+
+2. Identify the stakeholders (direct and indirect) whose interests are relevant to your website.
+Direct stakeholders: GoFresh website development engineers, sellers, consumers, delivery service provider, local physical grocery stores (such as COSTCO, Walmart, Whole Foods, Trader Joe’s, H-mart, Ranch 99, and etc), online grocery website (such as Amazon).
+Indirect stakeholders: Neighbors of the seller, neighbors of the consumers, worker community/union, entertainment website/company since people save time from grocery shopping and they would have more time for entertaining, internet maintaining service companies to ensure the website is functional. 
+
+
+
+
+
+
+3. What data will you have access to, and what might this data reveal about its subjects?
+•        login information such like your email address, and password;
+•        Identifying information such like name, address, and phone numbers for delivery purposes;
+•        Payment information;
+•        Content of reviews of our products and website for our website;
+•        Order history information;
+Those data would reveal the basic personal information about who and where they are. From their order history, it reveals how much a consumer likes a product and the purchasing pattern for the consumers. 
+
+
+
+
+
+
+
+
+4. What values are relevant to your website and its privacy policy? (Note that the relevant values will depend in part on the kind of website you are building).
+Convenience for the consumers to find the product they need and like.
+Care for the consumers since we care about their purchasing experience and how they would review the products. 
+Personalization for the consumers since we will analyze their purchasing pattern to build a smart environment for them to easily find what they want for time-saving purposes. 
+
+
+5. What counts as “success” for the website you are building?
+Make profits from the website and maintain a good consumer return rate. People would like to use our website service in along term. 
+Convenience for the consumers to find the product they need and deliver to their home.
+Care for the consumers since we care about their purchasing experience and how they would review the products. 
+Personalization for the consumers since we will analyze their purchasing pattern to build a smart environment for them to easily find what they want for time-saving purposes.
+
+
+6. Describe how you took the relevant values into account in writing your privacy policy (e.g. what decisions and tradeoffs were made, and why).
+We try to make profits by continuously improving our website service. Therefore, in the Privacy Policy we collect their personal information to make our grocery shopping transactions proceed and completed successfully and smoothly. We record the data to avoid consumer to enter their personal information in the shipping page repetitively.
+
+
+We also take our values of care and personalization into account in your privacy policy. By collecting the order history information, we will create the personalized recommendation for each individual customer. We would like to provide as much convenience for each individual customer in his/her own way. The tradeoffs are, when the consumer would like to change to a healthy lifestyle, due to our personalized recommendation, we might remain the old diet product recommendations to the consumer for a short amount of time until the shopping pattern changed.
