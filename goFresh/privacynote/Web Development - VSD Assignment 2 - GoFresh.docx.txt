@@ -90,14 +90,15 @@ We also take our values of care and personalization into account in your privacy
 
 [Autonomy]
 12. In what ways might your user interface “nudge” users? Analyze a minimum of 3 features.
-* We have not implemented the function to deactivate a user’s account on their own. If a user would like to cancel their account, he/she would need to contact with our developers.  
-* During the canceling account process, we will add in a “crying avocado” picture on the page. The user might feel guilty if they still choose to cancel their account. 
+* We have not implemented the function to deactivate a user’s account on their own. If a user would like to cancel their account, he/she would need to wait for this function to come up.
+* During the canceling account process, we will add in a “crying avocado” picture on the page. The user might feel a little guilty if they still choose to cancel their account.
 * After we analyze the shopping pattern for our consumers, we will provide personalized recommendation and display what they buy most often. People tend to easily buy they stuff they used to buy without thinking too much whether it is necessary or not, especially when they want to change their diet. This feature would bring more profits for our website since consumers tend to buy more than they expected. 
 
 
 
 
 13. Do any of these constitute “dark patterns”? For each previously identified feature, explain why it does or does not.
-* User needs to contact our engineer to cancel their account: It may be a Roach hotel, which is easy to get in, hard to get out. But with operation in the backend, it would be easy for our developer to delete an account. The user just needs to take an extra step to cancel their account. 
-*  “Crying avocado” picture on the page is a confirm-shaming. The user might feel guilty if they still choose to cancel their account. But they can still choose to cancel their account with no financial impact on both parties.
-* Personalized recommendation could be another dark pattern. Our website aims to make the online shopping experience easier for our user when the user does not change their diet or habit. Only when people are changing their diet, they might be affected by the recommendation, they can, however, still make their own decision on what to purchase, afterwards the shopping pattern would change accordingly. In the long run, it will benefit the user eventually.
+No, any of those constitute "dark patterns."
+* User needs to contact our engineer to cancel their account: With operation in the backend, it would be easy for our developer to delete an account in the admin side. The user just needs to email us.
+*  “Crying avocado” picture. The user might feel guilty if they still choose to cancel their account. But they can still choose to cancel their account with no financial impact on both parties.
+* Personalized recommendation: Our website aims to make the online shopping experience easier for our users which is an essential value of our website and we count it as a success of our website. When people are changing their diet, they just need to make different purchases a few times, afterwards the shopping pattern would change accordingly. In the long run, it will benefit the users eventually.
