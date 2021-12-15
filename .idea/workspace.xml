@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d9bdae3-01a4-4c6c-8bb0-b92607f8a08b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goFresh/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/goFresh/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goFresh/frontend/src/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/goFresh/frontend/src/screens/HomeScreen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,19 @@
       <recent name="$PROJECT_DIR$/amazona/backend" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,6 +106,7 @@
       <workItem from="1638747968949" duration="16253000" />
       <workItem from="1638772809545" duration="1655000" />
       <workItem from="1638778076096" duration="1720000" />
+      <workItem from="1639534843609" duration="1047000" />
     </task>
     <servers />
   </component>
